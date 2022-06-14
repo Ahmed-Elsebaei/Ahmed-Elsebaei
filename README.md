@@ -1,5 +1,5 @@
 - My name is Ahmed Elsebaei
-- I’m interested in data analysis
+- I’m passionate about data analysis
 - I have an intermediate knowledge in Python, Excel, SQL, Tableau and Power BI
 - I'm trying to learn as much as I can to jump from intermediate into a professional data analyst
 
